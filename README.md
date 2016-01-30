@@ -1,9 +1,8 @@
-# toothpaste
+#Toothpaste
 Toothpaste is a SublimeText2 theme 
 
 
 #Installation:
--
 ###With Package Control
 1. Run Package Control in Sublime
 2. Search for 'toothpaste' and Install
