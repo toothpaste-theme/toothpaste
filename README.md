@@ -18,5 +18,5 @@ A custom theme for SublimeText2 with colors that pop and are muted where necessa
 6. Go to Preferences > Color Schemes > Toothpaste Color Scheme
 
 ##Contact
-- See something wrong? Have a suggestions? Open up an issue or pull request <3
+- See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here and there. <3
 - For any questions or feedback, don't hesistate to reach out via [twitter](http://twitter.com/imcatnoone) or [email](mailto:hello@heyimcat.com).
