@@ -1,8 +1,9 @@
 #Toothpaste
-Toothpaste is a SublimeText2 theme 
+A custom theme for SublimeText2 with colors that pop and are muted where necessary
+![image](Screen Shot 2016-01-30 at 4.34.21 PM.png)
+![image](Screen Shot 2016-01-30 at 4.35.40 PM.png)
 
-
-#Installation:
+##Installation:
 ###With Package Control
 1. Run Package Control in Sublime
 2. Search for 'toothpaste' and Install
@@ -15,3 +16,7 @@ Toothpaste is a SublimeText2 theme
 4. rsync -av ~/Downloads/toothpaste.tmTheme ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/toothpaste
 5. Start Sublime Text
 6. Go to Preferences > Color Schemes > Toothpaste Color Scheme
+
+##Contact
+- See something wrong? Have a suggestions? Open up an issue or pull request <3
+- For any questions or feedback, don't hesistate to reach out via [twitter](http://twitter.com/imcatnoone) or [email](mailto:hello@heyimcat.com).
