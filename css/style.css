@@ -1,25 +1,10 @@
 body {
-	font-family: 'Source Code Pro', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Source Code Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-size: 16px;
 	color: #fff;
-	background-color: #222E33;
-	/* background: url("../images/stripes.svg") no-repeat top center fixed; 
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover; */
+	background-color: #E36868;
 } 
-
-h1 {
-	font-size: 3em;
-	text-align: center;
-}
-
-h2 {
-	font-size: .9em;
-	font-weight: 600;
-}
 
 a {
 	text-decoration: none;
@@ -56,8 +41,9 @@ a:hover {
 
 .download-button {
 	font-weight: 600;
-	color: #fff;
-	border: 2px solid #fff;
+	color: #E36868;
+	background-color: #fafafa;
+	border: 2px solid #fafafa;
 	padding: 10px 20px;
 	border-radius: 5px; 
 	-moz-border-radius: 5px; 
@@ -69,8 +55,8 @@ a:hover {
 
 .button {
 	font-weight: 600;
-	color: #E36868;
-	border: 2px solid #E36868;
+	color: #fff;
+	border: 2px solid #fff;
 	padding: 10px 20px;
 	border-radius: 5px; 
 	-moz-border-radius: 5px; 
