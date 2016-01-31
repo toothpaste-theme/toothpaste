@@ -103,6 +103,7 @@ a:hover {
 @media (max-width: 480px) and (min-width: 0px) {  
 
 .screenshot {
+	width: 105%;
 	margin-top: 2em;
 	overflow: hidden;
 }
