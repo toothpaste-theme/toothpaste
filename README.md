@@ -1,5 +1,5 @@
 #Toothpaste
-A custom theme for SublimeText2 with colors that pop and are muted where necessary
+A custom theme for Sublime Text with flavorful colors that pop and are muted where necessary
 ![image](Screen Shot 2016-01-30 at 4.34.21 PM.png)
 ![image](Screen Shot 2016-01-30 at 4.35.40 PM.png)
 
