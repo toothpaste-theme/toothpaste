@@ -1,0 +1,18 @@
+{
+  "name": "toothpaste-theme",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A custom theme for Atom with flavorful colors",
+  "keywords": [
+    "syntax",
+    "theme",
+    "vibrant",
+    "dark",
+    "flavorful"
+  ],
+  "repository": "https://github.com/imcatnoone/toothpaste",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
