@@ -53,6 +53,30 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
   background-color: @yellow-dark;
 }
 
+// Tree view Styles
+atom-panel {
+  .tool-panel .list-tree li {
+    // Modified tree element
+    &:not(.list-nested-item).selected.status-modified, &:not(.list-nested-item).selected.status-modified, &.list-nested-item.selected.status-modified > .list-item, &.list-nested-item.selected.status-modified > .list-item {
+      color: @yellow-light;
+    }
+    &:not(.list-nested-item).status-modified, &:not(.list-nested-item).status-modified, &.list-nested-item.status-modified > .list-item, &.list-nested-item.status-modified > .list-item {
+      color: @yellow-light;
+    }
+
+    // New tree element
+    &:not(.list-nested-item).selected.status-added, &:not(.list-nested-item).selected.status-added, &.list-nested-item.selected.status-added > .list-item, &.list-nested-item.selected.status-added > .list-item {
+      color: @green-dark;
+    }
+
+    &:not(.list-nested-item).status-added, &:not(.list-nested-item).status-added, &.list-nested-item.status-added > .list-item, &.list-nested-item.status-added > .list-item {
+      color: @green-dark;
+    }
+  }
+}
+
+
+// Syntax Styles
 .comment {
   color: @blue-gray-dark;
 }
