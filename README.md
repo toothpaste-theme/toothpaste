@@ -27,6 +27,7 @@ A custom theme for Sublime Text with flavorful colors that pop and are muted whe
 *Coming Soon*
 
 #For Xcode
+![image](Screen Shot 2016-02-05 at 08.33.27.png)
 ##Installation:
 ###With [Alcatraz](http://alcatraz.io)
 *Coming Soon*
