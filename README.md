@@ -20,6 +20,7 @@ A custom theme for Sublime Text, Atom and Xcode with flavorful colors that pop a
 6. Go to Preferences > Color Schemes > Toothpaste Color Scheme
 
 ##Atom
+[A screenshot of Toothpaste in Atom](https://s3.amazonaws.com/f.cl.ly/items/3O2F1J3H0a3J1X1u092B/Image%202016-02-01%20at%205.28.42%20p.m..png?v=47980af9)
 ###Installation:
 ####With Package Control
 *Coming Soon*
