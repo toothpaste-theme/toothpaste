@@ -1,7 +1,10 @@
 #Toothpaste
 A custom theme for Sublime Text, Atom and Xcode with flavorful colors that pop and are muted where necessary
+###Sublime Text
 ![image](Screen Shot 2016-01-30 at 4.34.21 PM.png)
 ![image](Screen Shot 2016-01-30 at 4.35.40 PM.png)
+###Xcode
+![image](Screen Shot 2016-02-05 at 08.33.27.png)
 
 ##Sublime Text installation:
 ####With Package Control
