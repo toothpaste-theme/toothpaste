@@ -42,6 +42,13 @@ A custom theme for Sublime Text, Atom and Xcode with flavorful colors that pop a
 3. Start Xcode
 4. Go to Preferences > Fonts & Colors > Toothpaste
 
+##WebStorm
+![image](toothpaste_webstorm_screenshot.png)
+###Installation:
+####Manually
+1. Download the theme file
+2. Navigate to File > Import Settings and select the JAR file you just downloaded
+
 ##Contact
 - See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here & there. <3
 - For any questions or feedback, don't hesistate to reach out via [twitter](http://twitter.com/imcatnoone) or [email](mailto:hello@heyimcat.com).
@@ -51,3 +58,4 @@ Toothpaste definitely could not have grown the way it continues to without the c
 
 - Timothy ([@codetheory](http://twitter.com/@codetheory)) for recreating Toothpaste for Atom
 - Adam Swinden ([@AdamSwinden](https://twitter.com/adamswinden)) for recreating Toothpaste for Xcode
+- Michiel Renty ([@mrenty](https://twitter.com/mrenty)) for creating Toothpaste for WebStorm
