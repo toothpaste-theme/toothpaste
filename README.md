@@ -26,10 +26,23 @@ A custom theme for Sublime Text with flavorful colors that pop and are muted whe
 ###Manually
 *Coming Soon*
 
+#For Xcode
+##Installation:
+###With [Alcatraz](http://alcatraz.io)
+*Coming Soon*
+
+###Manually
+1. Download the dvtcolortheme file
+2. rsync -av ~/Downloads/toothpaste.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+3. Start Xcode
+4. Go to Preferences > Fonts & Colors > Toothpaste
+
 ##Contact
 - See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here & there. <3
 - For any questions or feedback, don't hesistate to reach out via [twitter](http://twitter.com/imcatnoone) or [email](mailto:hello@heyimcat.com).
 
 ##Contributors
 Toothpaste definitely could not have grown the way it continues to without the contributors helping. I couldn't do it alone. A big thank you to:
+
 - Timothy ([@codetheory](http://twitter.com/@codetheory)) for recreating Toothpaste for Atom
+- Adam Swinden ([@AdamSwinden](https://twitter.com/adamswinden)) for recreating Toothpaste for Xcode
