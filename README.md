@@ -46,7 +46,7 @@ A custom theme for Sublime Text, Atom and Xcode with flavorful colors that pop a
 ![image](toothpaste_webstorm_screenshot.png)
 ###Installation:
 ####Manually
-1. Download the theme file
+1. Download the theme `.jar` file
 2. Navigate to File > Import Settings and select the JAR file you just downloaded
 
 ##Contact
