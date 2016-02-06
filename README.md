@@ -1,12 +1,12 @@
 # Toothpaste
-A custom theme for Sublime Text, Atom and Xcode with flavorful colors that pop and are muted where necessary
+A custom theme for Sublime Text, Atom, Xcode and WebStorm with flavorful colors that pop and are muted where necessary
 
 ## Sublime Text
 ![image](Screen Shot 2016-01-30 at 4.34.21 PM.png)
 ![image](Screen Shot 2016-01-30 at 4.35.40 PM.png)
 
 ### Installation:
-#### With Package Control
+#### With Package Control (*Coming Soon*)
 1. Run Package Control in Sublime
 2. Search for 'toothpaste' and Install
 3. Go to Preferences > Color Schemes > Toothpaste
