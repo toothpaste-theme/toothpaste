@@ -67,12 +67,14 @@ a:hover {
 }
 
 .footer {
-	width: 100%;
 	text-align: center;
 	font-size: .7em;
+	line-height: 1.7em;
 	color: #DAE3E8;
 	margin-top: 0;
 	margin-bottom: 4em;
+	padding-left: 20em;
+	padding-right: 20em;
 }
 
 .footer a {
