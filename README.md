@@ -64,3 +64,10 @@ Toothpaste definitely could not have grown the way it continues to without the c
 - Timothy ([@codetheory](http://twitter.com/@codetheory)) for recreating Toothpaste for Atom
 - Adam Swinden ([@AdamSwinden](https://twitter.com/adamswinden)) for recreating Toothpaste for Xcode
 - Michiel Renty ([@mrenty](https://twitter.com/mrenty)) for recreating Toothpaste for WebStorm
+- Benedikt Lehnert ([@blehnert](https://twitter.com/blehnert)) for whipping up the Toothpaste landing page
+
+## Creating Issues
+Run into a dilemma and want to create an issue for it? Go ahead and do so! But first:
+- Make sure the issue wasn't already created. Duplicates are hard.
+- If there is a duplicate, chime in on the comments! <3
+- Make your issue title straight-forward and leave a lovely comment with more info for us
