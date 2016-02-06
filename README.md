@@ -13,7 +13,7 @@ A custom theme for Sublime Text, Atom, Xcode and WebStorm with flavorful colors 
 
 #### Manually
 1. Download the theme file
-2. ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+2. ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/ (OS X), ~/AppData/Roaming/Sublime Text 2/Packages/ (Windows 7+)
 3. mkdir toothpaste
 4. rsync -av ~/Downloads/toothpaste.tmTheme ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/toothpaste
 5. Start Sublime Text
