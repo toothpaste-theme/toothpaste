@@ -107,9 +107,9 @@
 		<key>xcode.syntax.identifier.type.system</key>
 		<string>0.462745 0.619608 0.701961 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.854902 0.890196 0.909804 1</string>
+		<string>0.592157 0.721569 0.32549 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.854902 0.890196 0.909804 1</string>
+		<string>0.462745 0.619608 0.701961 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.435294 0.74902 0.435294 1</string>
 		<key>xcode.syntax.number</key>
