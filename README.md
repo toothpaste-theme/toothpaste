@@ -28,6 +28,11 @@ A custom theme for Sublime Text, Atom, Xcode and WebStorm with flavorful colors 
 3. Click `install`
 4. Navigate to themes and select `Toothpaste` from the Syntax themes dropdown
 
+#### With `apm` from the Command Line
+1. Run `$ apm install Toothpaste`
+4. Navigate to the Themes section within Atom's settings
+5. Select `Toothpaste` from the Syntax themes dropdown
+
 #### Manually (OSX)
 1. Download or clone this repo
 2. Either drag the entire directory or clone this repo directly into the packages directory located at `~/.atom/packages/.
