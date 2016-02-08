@@ -39,11 +39,17 @@ A custom theme for Sublime Text, Atom, Xcode and WebStorm with flavorful colors 
 ![image](Screen Shot 2016-02-05 at 08.33.27.png)
 ### Installation:
 #### With [Alcatraz](http://alcatraz.io)
-*Coming Soon*
+1. Install Alcatraz: `curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh | sh`
+2. Launch Alcatraz from Xcode (Window > Package Manager)
+3. Select Color Themes tab
+4. Search for `toothpaste`
+5. Click install
+6. Restart Xcode
+7. Go to Preferences > Fonts & Colors > Toothpaste
 
 #### Manually
 1. Download the dvtcolortheme file
-2. rsync -av ~/Downloads/toothpaste.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+2. `rsync -av ~/Downloads/toothpaste.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
 3. Start Xcode
 4. Go to Preferences > Fonts & Colors > Toothpaste
 
