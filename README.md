@@ -65,6 +65,12 @@ A custom theme for Sublime Text, Atom, Xcode and WebStorm with flavorful colors 
 1. Download the theme `.jar` file
 2. Navigate to File > Import Settings and select the JAR file you just downloaded
 
+## Vim
+![image](vim-shot.png)
+### Installation:
+1. Copy `toothpaste.vim` into your `~/.vim/colors`
+2. In vim, select the color scheme: `:colorscheme toothpaste`
+
 ## Contact
 - See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here & there. <3
 - For any questions or feedback, don't hesistate to reach out via [twitter](http://twitter.com/imcatnoone) or [email](mailto:hello@heyimcat.com).
