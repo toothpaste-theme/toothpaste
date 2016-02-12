@@ -8,14 +8,14 @@ A custom theme for Sublime Text, Atom, Xcode and WebStorm with flavorful colors 
 ### Installation:
 #### With Package Control (*Coming Soon*)
 1. Run Package Control in Sublime
-2. Search for 'toothpaste' and Install
+2. Search for `toothpaste` and Install
 3. Go to Preferences > Color Schemes > Toothpaste
 
 #### Manually
 1. Download the theme file
-2. ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/ (OS X), ~/AppData/Roaming/"Sublime Text 2"/Packages/ (Windows 7+)
+2. For **OSX**: ``~/Library/Application\ Support/Sublime\ Text\ 2/Packages/` and **Windows 7+** `~/AppData/Roaming/"Sublime Text 2"/Packages/`
 3. mkdir toothpaste
-4. rsync -av ~/Downloads/toothpaste.tmTheme ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/toothpaste
+4. rsync `-av ~/Downloads/toothpaste.tmTheme ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/toothpaste`
 5. Start Sublime Text
 6. Go to Preferences > Color Schemes > Toothpaste Color Scheme
 
@@ -24,7 +24,7 @@ A custom theme for Sublime Text, Atom, Xcode and WebStorm with flavorful colors 
 ### Installation:
 #### With [Atom Package Manager](https://atom.io/themes/toothpaste)
 1. Navigate to the install section within Atom's settings
-2. Search for 'toothpaste' with the `themes` option selected
+2. Search for `toothpaste` with the `themes` option selected
 3. Click `install`
 4. Navigate to themes and select `Toothpaste` from the Syntax themes dropdown
 
@@ -35,7 +35,7 @@ A custom theme for Sublime Text, Atom, Xcode and WebStorm with flavorful colors 
 
 #### Manually (OSX)
 1. Download or clone this repo
-2. Either drag the entire directory or clone this repo directly into the packages directory located at `~/.atom/packages/.
+2. Either drag the entire directory or clone this repo directly into the packages directory located at `~/.atom/packages/`.
 3. Navigate to the 'Themes' section within Atom's settings panel and choose `Toothpaste` from the Syntax themes dropdown.
 
 *Note*: Toothpaste for atom works best with the One Dark or One Light UI themes. Toothpaste is a syntax theme and is therefore inherited by One Dark/Light UI themes.
@@ -85,6 +85,13 @@ Toothpaste definitely could not have grown the way it continues to without the c
 - Josh Auget ([@jfonte](https://twitter.com/thisismyclone)) for the manual instructions for ST2 on Windows
 - Lachlan Campbell ([@lachlanjc](https://twitter.com/lachlanjc)) for installation instructions with `apm` from Command Line
 - Dotan Nahum ([@jondot](https://twitter.com/jondot)) for recreating Toothpaste for Vim
+
+## Contributing
+Want to recreate Toothpaste for an IDE that isn't listed? Exciting and the community loves you for it! Before you do, read these little tidbits about how to do so:
+- Make sure the issue IDE theme doesn't already exist
+- Fork the repo and make the changes to port it over to the IDE
+- Update the README with the current formatting for each IDE submission
+- Submit a pull request when you're ready and be sure to include: the code, a screenshot, name and twitter handle so you can be added to the contributor section of the README and website.
 
 ## Creating Issues
 Run into a dilemma and want to create an issue for it? Go ahead and do so! But first:
