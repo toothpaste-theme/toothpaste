@@ -73,8 +73,6 @@ a:hover {
 	color: #DAE3E8;
 	margin-top: 0;
 	margin-bottom: 4em;
-	padding-left: 20em;
-	padding-right: 20em;
 }
 
 .footer a {
@@ -85,6 +83,12 @@ a:hover {
 .footer a:visited {
 	color: #DAE3E8;
 }
+
+.credits {
+	width: 63%;
+	display: inline-block;
+}
+
 
 /* Media Queries */
 /* Tablet */
