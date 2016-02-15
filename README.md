@@ -12,7 +12,18 @@ A custom theme for Sublime Text, Atom, Xcode, WebStorm and Vim with flavorful co
 3. Go to Preferences > Color Schemes > Toothpaste
 
 #### Manually
+**Sublime Text 2**
+
 1. Download the theme file
+2. For **OSX**: ``~/Library/Application\ Support/Sublime\ Text\ 2/Packages/` and **Windows 7+** `~/AppData/Roaming/"Sublime Text 2"/Packages/`
+3. mkdir toothpaste
+4. rsync `-av ~/Downloads/toothpaste.tmTheme ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/toothpaste`
+5. Start Sublime Text
+6. Go to Preferences > Color Schemes > Toothpaste Color Scheme
+
+**Sublime Text 3**
+
+1. Clone the repo (rather than saving/downloading the file).
 2. For **OSX**: ``~/Library/Application\ Support/Sublime\ Text\ 2/Packages/` and **Windows 7+** `~/AppData/Roaming/"Sublime Text 2"/Packages/`
 3. mkdir toothpaste
 4. rsync `-av ~/Downloads/toothpaste.tmTheme ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/toothpaste`
