@@ -51,6 +51,26 @@ A custom theme for Sublime Text, Atom, Xcode, WebStorm and Vim with flavorful co
 
 *Note*: Toothpaste for atom works best with the One Dark or One Light UI themes. Toothpaste is a syntax theme and is therefore inherited by One Dark/Light UI themes.
 
+## [BBEdit](http://www.barebones.com/products/bbedit/)
+![image](toothpaste_bbedit_screenshot.png)
+### Installation:
+Toothpaste is included in BBEdit 11.5.1 and later.
+
+1. Choose "Preferences" from the BBEdit menu
+2. Choose "Text Colors" from the list in the Preferences window sidebar
+3. Choose "Toothpaste" from the "Color Scheme" pop-up menu
+
+To customize a copy, click the "Save Scheme" button. This will create a copy in your `Application Support/BBEdit/Color Schemes/` folder.
+
+#### With [Alcatraz](http://alcatraz.io)
+1. Install Alcatraz: `curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh | sh`
+2. Launch Alcatraz from Xcode (Window > Package Manager)
+3. Select Color Themes tab
+4. Search for `toothpaste`
+5. Click install
+6. Restart Xcode
+7. Go to Preferences > Fonts & Colors > Toothpaste
+
 ## Xcode
 ![image](Screen Shot 2016-02-05 at 08.33.27.png)
 ### Installation:
