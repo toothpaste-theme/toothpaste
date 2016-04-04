@@ -1,0 +1,23 @@
+{
+    "name": "theme-toothpaste",
+    "displayName": "Toothpaste",
+    "description": "A custom theme with flavorful colors that pop and are muted where necessary.",
+    "version": "0.0.1",
+    "publisher": "aalaap",
+    "icon": "toothpaste.png",
+    "engines": {
+        "vscode": "^0.10.10"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Toothpaste",
+                "uiTheme": "vs-dark",
+                "path": "./themes/toothpaste.tmTheme"
+            }
+        ]
+    }
+}
