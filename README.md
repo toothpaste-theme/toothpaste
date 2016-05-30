@@ -93,7 +93,7 @@ Toothpaste definitely could not have grown the way it continues to without the c
 - Adam Swinden ([@AdamSwinden](https://twitter.com/adamswinden)) for recreating Toothpaste for Xcode
 - Michiel Renty ([@mrenty](https://twitter.com/mrenty)) for recreating Toothpaste for WebStorm
 - Benedikt Lehnert ([@blehnert](https://twitter.com/blehnert)) for whipping up the Toothpaste landing page
-- Josh Auget ([@jfonte](https://twitter.com/thisismyclone)) for the manual instructions for ST2 on Windows
+- Josh Fontecha ([@jfonte](https://twitter.com/jfontecha)) for the manual instructions for ST2 on Windows
 - Lachlan Campbell ([@lachlanjc](https://twitter.com/lachlanjc)) for installation instructions with `apm` from Command Line
 - Dotan Nahum ([@jondot](https://twitter.com/jondot)) for recreating Toothpaste for Vim
 
