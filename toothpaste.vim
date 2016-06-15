@@ -8,14 +8,14 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "Toothpaste"
+let g:colors_name = "toothpaste"
 
 hi Cursor ctermfg=17 ctermbg=59 cterm=NONE guifg=#222e33 guibg=#465e68 gui=NONE
 hi Visual ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#49483e gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#344045 gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#344045 gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#344045 gui=NONE
-hi LineNr ctermfg=102 ctermbg=59 cterm=NONE guifg=#7e898e guibg=#344045 gui=NONE
+hi LineNr ctermfg=102 ctermbg=NONE cterm=NONE guifg=#7e898e guibg=#344045 gui=NONE
 hi VertSplit ctermfg=59 ctermbg=59 cterm=NONE guifg=#576267 guibg=#576267 gui=NONE
 hi MatchParen ctermfg=71 ctermbg=NONE cterm=underline guifg=#62a665 guibg=NONE gui=underline
 hi StatusLine ctermfg=188 ctermbg=59 cterm=bold guifg=#dae3e8 guibg=#576267 gui=bold
@@ -27,7 +27,7 @@ hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=un
 hi Directory ctermfg=167 ctermbg=NONE cterm=NONE guifg=#e36868 guibg=NONE gui=NONE
 hi Folded ctermfg=59 ctermbg=17 cterm=NONE guifg=#465e68 guibg=#222e33 gui=NONE
 
-hi Normal ctermfg=188 ctermbg=17 cterm=NONE guifg=#dae3e8 guibg=#222e33 gui=NONE
+hi Normal ctermfg=188 ctermbg=NONE cterm=NONE guifg=#dae3e8 guibg=#222e33 gui=NONE
 hi Boolean ctermfg=167 ctermbg=NONE cterm=NONE guifg=#e36868 guibg=NONE gui=NONE
 hi Character ctermfg=167 ctermbg=NONE cterm=NONE guifg=#e36868 guibg=NONE gui=NONE
 hi Comment ctermfg=59 ctermbg=NONE cterm=NONE guifg=#465e68 guibg=NONE gui=NONE
@@ -36,7 +36,7 @@ hi Constant ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi Define ctermfg=71 ctermbg=NONE cterm=NONE guifg=#62a665 guibg=NONE gui=NONE
 hi DiffAdd ctermfg=188 ctermbg=64 cterm=bold guifg=#dae3e8 guibg=#45840f gui=bold
 hi DiffDelete ctermfg=88 ctermbg=NONE cterm=NONE guifg=#8a090a guibg=NONE gui=NONE
-hi DiffChange ctermfg=188 ctermbg=23 cterm=NONE guifg=#dae3e8 guibg=#213c5d gui=NONE
+hi DiffChange ctermfg=188 ctermbg=22 cterm=NONE guifg=#dae3e8 guibg=#213c5d gui=NONE
 hi DiffText ctermfg=188 ctermbg=24 cterm=bold guifg=#dae3e8 guibg=#204a87 gui=bold
 hi ErrorMsg ctermfg=187 ctermbg=168 cterm=NONE guifg=#c5c5c0 guibg=#c54f7a gui=NONE
 hi WarningMsg ctermfg=187 ctermbg=168 cterm=NONE guifg=#c5c5c0 guibg=#c54f7a gui=NONE
@@ -45,12 +45,12 @@ hi Function ctermfg=107 ctermbg=NONE cterm=NONE guifg=#97b853 guibg=NONE gui=NON
 hi Identifier ctermfg=73 ctermbg=NONE cterm=NONE guifg=#73b3c0 guibg=NONE gui=italic
 hi Keyword ctermfg=71 ctermbg=NONE cterm=NONE guifg=#62a665 guibg=NONE gui=NONE
 hi Label ctermfg=186 ctermbg=NONE cterm=NONE guifg=#dbcd7f guibg=NONE gui=NONE
-hi NonText ctermfg=59 ctermbg=23 cterm=NONE guifg=#3b3a32 guibg=#2b373c gui=NONE
+hi NonText ctermfg=59 ctermbg=NONE cterm=NONE guifg=#3b3a32 guibg=#2b373c gui=NONE
 hi Number ctermfg=150 ctermbg=NONE cterm=NONE guifg=#9dc777 guibg=NONE gui=NONE
 hi Operator ctermfg=71 ctermbg=NONE cterm=NONE guifg=#62a665 guibg=NONE gui=NONE
 hi PreProc ctermfg=71 ctermbg=NONE cterm=NONE guifg=#62a665 guibg=NONE gui=NONE
 hi Special ctermfg=188 ctermbg=NONE cterm=NONE guifg=#dae3e8 guibg=NONE gui=NONE
-hi SpecialKey ctermfg=59 ctermbg=59 cterm=NONE guifg=#3b3a32 guibg=#344045 gui=NONE
+hi SpecialKey ctermfg=59 ctermbg=NONE cterm=NONE guifg=#3b3a32 guibg=#344045 gui=NONE
 hi Statement ctermfg=71 ctermbg=NONE cterm=NONE guifg=#62a665 guibg=NONE gui=NONE
 hi StorageClass ctermfg=73 ctermbg=NONE cterm=NONE guifg=#73b3c0 guibg=NONE gui=italic
 hi String ctermfg=186 ctermbg=NONE cterm=NONE guifg=#dbcd7f guibg=NONE gui=NONE
