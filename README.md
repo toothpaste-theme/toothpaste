@@ -1,5 +1,5 @@
 # Toothpaste
-A custom theme for Sublime Text, Atom, Xcode, WebStorm, and Vim with flavorful colors that pop and are muted where necessary.
+A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim and Visual Studio Code with flavorful colors that pop and are muted where necessary.
 
 ## Sublime Text
 ![image](Screen Shot 2016-01-30 at 4.34.21 PM.png)
@@ -102,6 +102,23 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 1. Copy `toothpaste.vim` into your `~/.vim/colors`
 2. In vim, select the color scheme: `:colorscheme toothpaste`
 
+## Visual Studio Code
+![image](toothpaste-vscode-screenshot.png)
+
+### Installation:
+
+#### Via the Command Palette
+1. Hit `F1` or `CTRL-P`/`CMD+P` to bring up the Command Palette
+2. Type in `ext install theme-toothpaste` (don't forget to remove the `>`)
+3. Restart Visual Studio Code
+4. Go to File > Preferences > Color Theme and select `Toothpaste` from the list
+
+#### Manually
+1. Navigate to [your .vscode/extensions folder](https://code.visualstudio.com/docs/extensions/install-extension#_your-extensions-folder)
+2. Download the `theme-toothpaste` folder into the extensions folder 
+3. Restart Visual Studio Code 
+4. Go to File > Preferences > Color Theme and select `Toothpaste` from the list 
+
 ## Contact
 - See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here & there. <3
 - For any questions or feedback, don't hesistate to reach out via [twitter](http://twitter.com/imcatnoone) or [email](mailto:hello@heyimcat.com).
@@ -109,13 +126,14 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 ## Contributors
 Toothpaste definitely could not have grown the way it continues to without the contributors helping. I couldn't do it alone. A big thank you to:
 
-- Timothy ([@codetheory](http://twitter.com/@codetheory)) for recreating Toothpaste for Atom
+- Timothy ([@codetheory](http://twitter.com/codetheory)) for recreating Toothpaste for Atom
 - Adam Swinden ([@AdamSwinden](https://twitter.com/adamswinden)) for recreating Toothpaste for Xcode
 - Michiel Renty ([@mrenty](https://twitter.com/mrenty)) for recreating Toothpaste for WebStorm
 - Benedikt Lehnert ([@blehnert](https://twitter.com/blehnert)) for whipping up the Toothpaste landing page
 - Josh Fontecha ([@jfontecha](https://twitter.com/jfontecha)) for the manual instructions for ST2 on Windows
 - Lachlan Campbell ([@lachlanjc](https://twitter.com/lachlanjc)) for installation instructions with `apm` from Command Line
 - Dotan Nahum ([@jondot](https://twitter.com/jondot)) for recreating Toothpaste for Vim
+- Aalaap Ghag ([@aalaap](http://twitter.com/aalaap)) for porting Toothpaste over to Visual Studio Code
 
 ## Contributing
 Want to recreate Toothpaste for an IDE that isn't listed? Exciting and the community loves you for it! Before you do, read these little tidbits about how to do so:
