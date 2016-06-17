@@ -1,5 +1,5 @@
 # Toothpaste
-A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim and Visual Studio Code with flavorful colors that pop and are muted where necessary.
+A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, and Visual Studio Code with flavorful colors that pop and are muted where necessary.
 
 ## Sublime Text
 ![image](Screen Shot 2016-01-30 at 4.34.21 PM.png)
@@ -15,7 +15,7 @@ A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim and Visual Studio Co
 **Sublime Text 2**
 
 1. Download the theme file
-2. For **OS X**: ``~/Library/Application\ Support/Sublime\ Text\ 2/Packages/` and **Windows 7+** `~/AppData/Roaming/"Sublime Text 2"/Packages/`
+2. For **macOS**: ``~/Library/Application\ Support/Sublime\ Text\ 2/Packages/` and **Windows 7+** `~/AppData/Roaming/"Sublime Text 2"/Packages/`
 3. mkdir toothpaste
 4. rsync `-av ~/Downloads/toothpaste.tmTheme ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/toothpaste`
 5. Start Sublime Text
@@ -24,7 +24,7 @@ A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim and Visual Studio Co
 **Sublime Text 3**
 
 1. Clone the repo (rather than saving/downloading the file).
-2. For **OS X**: ``~/Library/Application\ Support/Sublime\ Text\ 2/Packages/` and **Windows 7+** `~/AppData/Roaming/"Sublime Text 2"/Packages/`
+2. For **macOS**: ``~/Library/Application\ Support/Sublime\ Text\ 2/Packages/` and **Windows 7+** `~/AppData/Roaming/"Sublime Text 2"/Packages/`
 3. mkdir toothpaste
 4. rsync `-av ~/Downloads/toothpaste.tmTheme ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/toothpaste`
 5. Start Sublime Text
@@ -44,7 +44,7 @@ A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim and Visual Studio Co
 4. Navigate to the Themes section within Atom's settings
 5. Select `Toothpaste` from the Syntax themes dropdown
 
-#### Manually (OS X)
+#### Manually (macOS)
 1. Download or clone this repo
 2. Either drag the entire directory or clone this repo directly into the packages directory located at `~/.atom/packages/`.
 3. Navigate to the 'Themes' section within Atom's settings panel and choose `Toothpaste` from the Syntax themes dropdown.
