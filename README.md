@@ -54,7 +54,7 @@ A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, and Visual 
 ## [BBEdit](http://www.barebones.com/products/bbedit/)
 ![image](toothpaste_bbedit_screenshot.png)
 ### Installation:
-Toothpaste is included in BBEdit 11.5.1 and later.
+Toothpaste is included in BBEdit 11.6 and later.
 
 1. Choose "Preferences" from the BBEdit menu
 2. Choose "Text Colors" from the list in the Preferences window sidebar
