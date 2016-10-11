@@ -108,10 +108,10 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 ### Installation:
 
 #### Via the Command Palette
-1. Hit `F1` or `CTRL-P`/`CMD+P` to bring up the Command Palette
-2. Type in `ext install theme-toothpaste` (don't forget to remove the `>`)
+1. Hit or `CTRL-P`/`CMD+P` to bring up the Command Palette
+2. Type in `ext install theme-toothpaste`
 3. Restart Visual Studio Code
-4. Go to File > Preferences > Color Theme and select `Toothpaste` from the list
+4. Go to `File` > `Preferences` > `Color Theme` and select `Toothpaste` from the list.
 
 #### Manually
 1. Navigate to [your .vscode/extensions folder](https://code.visualstudio.com/docs/extensions/install-extension#_your-extensions-folder)
