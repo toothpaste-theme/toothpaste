@@ -117,10 +117,6 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 3. Restart Visual Studio Code 
 4. Go to File > Preferences > Color Theme and select `Toothpaste` from the list 
 
-## Contact
-- See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here & there. <3
-- For any questions or feedback, don't hesistate to reach out via [twitter](http://twitter.com/imcatnoone) or [email](mailto:hello@heyimcat.com).
-
 ## macOS Terminal
 
 ![image](toothpaste_terminal_screenshot.png)
@@ -134,6 +130,10 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 1. Find ``toothpaste.terminal`` on your file system and click 'Open'
 
 If you want to set toothpaste as your default theme, select toothpaste from the list of Profiles and click on the 'Default' button close to the "gear" icon.
+
+## Contact
+- See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here & there. <3
+- For any questions or feedback, don't hesistate to reach out via [twitter](http://twitter.com/imcatnoone) or [email](mailto:hello@heyimcat.com).
 
 ## Contributors
 Toothpaste definitely could not have grown the way it continues to without the contributors helping. I couldn't do it alone. A big thank you to:
