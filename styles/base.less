@@ -1,55 +1,55 @@
 @import "colors";
 @import "syntax-variables";
 
-atom-text-editor, :host {
+atom-text-editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
 }
 
-atom-text-editor .gutter, :host .gutter {
+atom-text-editor .gutter {
   background-color: @syntax-gutter-background-color;
   color: @syntax-gutter-text-color;
 }
 
-atom-text-editor .gutter .line-number.cursor-line, :host .gutter .line-number.cursor-line {
+atom-text-editor .gutter .line-number.cursor-line {
   background-color: @syntax-gutter-background-color-selected;
   color: @syntax-gutter-text-color-selected;
 }
 
-atom-text-editor .gutter .line-number.cursor-line-no-selection, :host .gutter .line-number.cursor-line-no-selection {
+atom-text-editor .gutter .line-number.cursor-line-no-selection {
   color: @syntax-gutter-text-color-selected;
 }
 
-atom-text-editor .wrap-guide, :host .wrap-guide {
+atom-text-editor .wrap-guide {
   color: @syntax-wrap-guide-color;
 }
 
-atom-text-editor .indent-guide, :host .indent-guide {
+atom-text-editor .indent-guide {
   color: @syntax-indent-guide-color;
 }
 
-atom-text-editor .invisible-character, :host .invisible-character {
+atom-text-editor .invisible-character {
   color: @syntax-invisible-character-color;
 }
 
-atom-text-editor .search-results .marker .region, :host .search-results .marker .region {
+atom-text-editor .search-results .syntax--marker .region {
   background-color: transparent;
   border: @syntax-result-marker-color;
 }
 
-atom-text-editor .search-results .marker.current-result .region, :host .search-results .marker.current-result .region {
+atom-text-editor .search-results .syntax--marker.current-result .region {
   border: @syntax-result-marker-color-selected;
 }
 
-atom-text-editor.is-focused .cursor, :host(.is-focused) .cursor {
+atom-text-editor.is-focused .cursor {
   border-color: @syntax-cursor-color;
 }
 
-atom-text-editor.is-focused .selection .region, :host(.is-focused) .selection .region {
+atom-text-editor.is-focused .selection .region {
   background-color: @syntax-selection-color;
 }
 
-atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-editor.is-focused .line.cursor-line, :host(.is-focused) .line-number.cursor-line-no-selection, :host(.is-focused) .line.cursor-line {
+atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-editor.is-focused .line.cursor-line {
   background-color: @yellow-dark;
 }
 
@@ -77,90 +77,90 @@ atom-panel {
 
 
 // Syntax Styles
-.comment {
+.syntax--comment {
   color: @blue-gray-dark;
 }
 
-.string {
+.syntax--string {
   color: @yellow-light;
 }
 
-.constant.numeric {
+.syntax--constant.syntax--numeric {
   color: @green;
 }
 
-.constant.language {
+.syntax--constant.syntax--language {
   color: @red-light;
 }
 
-.constant.character, .constant.other {
+.syntax--constant.syntax--character, .syntax--constant.syntax--other {
   color: @red-light;
 }
 
-.variable {}
+.syntax--variable {}
 
-.keyword {
+.syntax--keyword {
   color: @green-translucent;
 }
 
-.storage {
+.syntax--storage {
   color: @yellow-light;
 }
 
-.storage.type {
+.syntax--storage.syntax--type {
   font-style: italic;
   color: @cyan;
 }
 
-.entity.name.class {
+.syntax--entity.syntax--name.syntax--class {
   text-decoration: underline;
   color: @green-dark;
 }
 
-.entity.other.inherited-class {
+.syntax--entity.syntax--other.syntax--inherited-class {
   font-style: italic;
   text-decoration: underline;
   color: @green-dark;
 }
 
-.entity.name.function {
+.syntax--entity.syntax--name.syntax--function {
   color: @green-dark;
 }
 
-.variable.parameter {
+.syntax--variable.syntax--parameter {
   font-style: italic;
   color: @orange-dark;
 }
 
-.entity.name.tag {
+.syntax--entity.syntax--name.syntax--tag {
   color: @blue-gray-light;
 }
 
-.entity.other.attribute-name {
+.syntax--entity.syntax--other.syntax--attribute-name {
   color: @blue-gray-light;
 }
 
-.support.function {
+.syntax--support.syntax--function {
   color: @blue;
 }
 
-.support.constant {
+.syntax--support.syntax--constant {
   color: @blue;
 }
 
-.support.type, .support.class {
+.syntax--support.syntax--type, .syntax--support.syntax--class {
   color: @blue;
 }
 
-.support.other.variable {
+.syntax--support.syntax--other.syntax--variable {
 }
 
-.invalid {
+.syntax--invalid {
   color: @gray;
   background-color: @magenta;
 }
 
-.invalid.deprecated {
+.syntax--invalid.syntax--deprecated {
   color: @gray;
   background-color: @purple;
 }
