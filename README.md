@@ -3,7 +3,6 @@ A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, and Visual 
 
 ## Sublime Text
 ![image](toothpaste_Sublime2_screenshot.png)
-![image](toothpaste_Sublime3_screenshot.png)
 
 ### Installation:
 #### With Package Control (*Coming Soon*)
