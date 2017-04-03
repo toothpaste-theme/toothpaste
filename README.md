@@ -70,7 +70,7 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 7. Go to Preferences > Fonts & Colors > Toothpaste
 
 ## Xcode
-![image](Screen Shot 2016-02-05 at 08.33.27.png)
+![image](Xcode_screenshot.png)
 ### Installation:
 #### With [Alcatraz](http://alcatraz.io)
 1. Install Alcatraz: `curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh | sh`
