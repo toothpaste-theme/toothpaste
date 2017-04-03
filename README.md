@@ -113,9 +113,21 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 
 #### Manually
 1. Navigate to [your .vscode/extensions folder](https://code.visualstudio.com/docs/extensions/install-extension#_your-extensions-folder)
-2. Download the `theme-toothpaste` folder into the extensions folder 
-3. Restart Visual Studio Code 
-4. Go to File > Preferences > Color Theme and select `Toothpaste` from the list 
+2. Download the `theme-toothpaste` folder into the extensions folder
+3. Restart Visual Studio Code
+4. Go to File > Preferences > Color Theme and select `Toothpaste` from the list
+
+## TextMate
+
+![image](TextMate-shot.png)
+
+### Installation:
+
+1. Launch TextMate.app
+2. Open Preferences
+3. Select Bundles
+4. Click on the Themes tab
+5. Find 'toothpaste.tmTheme' on your file system and click open
 
 ## macOS Terminal
 
@@ -124,12 +136,25 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 ### Installation:
 
 1. Launch Terminal.app
-1. Open Preferences ('Command' + ',' or Terminal > Preferences...) 
+1. Open Preferences ('Command' + ',' or Terminal > Preferences...)
 1. Select 'Profiles'
 1. Click on the "gear" icon and select 'Import...'
 1. Find ``toothpaste.terminal`` on your file system and click 'Open'
 
 If you want to set toothpaste as your default theme, select toothpaste from the list of Profiles and click on the 'Default' button close to the "gear" icon.
+
+## iTerm2 Terminal
+
+![image] (iTerm2_screenshot.png)
+
+### Installation:
+
+1. Launch iTerm2..app
+2. Open Preferences
+3. Select 'Profiles'
+4. Click on the Colors Tab and then tap on the color presets label
+5. Select Import
+6. Find 'toothpaste.itermcolors' on your file system and click 'Open'
 
 ## Contact
 - See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here & there. <3
@@ -144,6 +169,7 @@ Toothpaste definitely could not have grown the way it continues to without the c
 - Benedikt Lehnert ([@blehnert](https://twitter.com/blehnert)) for whipping up the Toothpaste landing page
 - Josh Fontecha ([@jfontecha](https://twitter.com/jfontecha)) for the manual instructions for ST2 on Windows
 - Lachlan Campbell ([@lachlanjc](https://twitter.com/lachlanjc)) for installation instructions with `apm` from Command Line
+- Agisilaos Tsaraboulidis ([@AgisilaosTs](https://twitter.com/AgisilaosTs)) for porting Toothpaste over to iTerm2 & TextMate 2
 - Dotan Nahum ([@jondot](https://twitter.com/jondot)) for recreating Toothpaste for Vim
 - Aalaap Ghag ([@aalaap](http://twitter.com/aalaap)) for porting Toothpaste over to Visual Studio Code
 - Ornithologist Coder  ([@OrnithoCoder](https://twitter.com/OrnithoCoder)) for porting Toothpaste over to macOS Terminal
