@@ -132,7 +132,7 @@ If you want to set toothpaste as your default theme, select toothpaste from the 
 
 ## iTerm2 Terminal
 
-![image] (iTerm2_screenshot.png)
+![image](iTerm2_screenshot.png)
 
 ### Installation:
 
