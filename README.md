@@ -2,8 +2,7 @@
 A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, and Visual Studio Code with flavorful colors that pop and are muted where necessary.
 
 ## Sublime Text
-![image](Screen Shot 2016-01-30 at 4.34.21 PM.png)
-![image](Screen Shot 2016-01-30 at 4.35.40 PM.png)
+![image](toothpaste_Sublime2_screenshot.png)
 
 ### Installation:
 #### With Package Control (*Coming Soon*)
@@ -70,7 +69,7 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 7. Go to Preferences > Fonts & Colors > Toothpaste
 
 ## Xcode
-![image](Screen Shot 2016-02-05 at 08.33.27.png)
+![image](Xcode_screenshot.png)
 ### Installation:
 #### With [Alcatraz](http://alcatraz.io)
 1. Install Alcatraz: `curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh | sh`
@@ -145,7 +144,7 @@ If you want to set toothpaste as your default theme, select toothpaste from the 
 
 ## iTerm2 Terminal
 
-![image] (iTerm2_screenshot.png)
+![image](iTerm2_screenshot.png)
 
 ### Installation:
 
