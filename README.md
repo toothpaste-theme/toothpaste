@@ -118,7 +118,7 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 
 ## TextMate
 
-![image](TextMate-shot.png)
+![image](toothpaste_TextMate2_screenshot.png)
 
 ### Installation:
 
@@ -144,7 +144,7 @@ If you want to set toothpaste as your default theme, select toothpaste from the 
 
 ## iTerm2 Terminal
 
-![image](iTerm2_screenshot.png)
+![image](toothpaste_iTerm2_screenshot.png)
 
 ### Installation:
 
