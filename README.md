@@ -126,7 +126,7 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 2. Open Preferences
 3. Select Bundles
 4. Click on the Themes tab
-5. Find 'toothpaste.tmTheme' on your file system and click open
+5. Find `toothpaste.tmTheme` on your file system and click open
 
 ## macOS Terminal
 
@@ -150,10 +150,10 @@ If you want to set toothpaste as your default theme, select toothpaste from the 
 
 1. Launch iTerm2..app
 2. Open Preferences
-3. Select 'Profiles'
+3. Select `Profiles`
 4. Click on the Colors Tab and then tap on the color presets label
 5. Select Import
-6. Find 'toothpaste.itermcolors' on your file system and click 'Open'
+6. Find `toothpaste.itermcolors` on your file system and click 'Open'
 
 ## Contact
 - See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here & there. <3
