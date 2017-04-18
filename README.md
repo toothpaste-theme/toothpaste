@@ -69,7 +69,7 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 7. Go to Preferences > Fonts & Colors > Toothpaste
 
 ## Xcode
-![image](Xcode_screenshot.png)
+![image](toothpaste_Xcode_screenshot.png)
 ### Installation:
 #### With [Alcatraz](http://alcatraz.io)
 1. Install Alcatraz: `curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh | sh`
@@ -94,13 +94,13 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 2. Navigate to File > Import Settings and select the JAR file you just downloaded
 
 ## Vim
-![image](vim-shot.png)
+![image](toothpaste_vim_screenshot.png)
 ### Installation:
 1. Copy `toothpaste.vim` into your `~/.vim/colors`
 2. In vim, select the color scheme: `:colorscheme toothpaste`
 
 ## Visual Studio Code
-![image](toothpaste-vscode-screenshot.png)
+![image](toothpaste_vscode_screenshot.png)
 
 ### Installation:
 
