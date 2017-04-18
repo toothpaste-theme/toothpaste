@@ -1,5 +1,5 @@
 # Toothpaste
-A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, and Visual Studio Code with flavorful colors that pop and are muted where necessary.
+A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, TextMate, MacOS Terminal, iTerm and Visual Studio Code with flavorful colors that pop and are muted where necessary.
 
 ## Sublime Text
 ![image](Screenshots/toothpaste_Sublime2_screenshot.png)
