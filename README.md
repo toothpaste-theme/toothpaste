@@ -1,5 +1,5 @@
 # Toothpaste
-A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, and Visual Studio Code with flavorful colors that pop and are muted where necessary.
+A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, Visual Studio Code, and Hyper with flavorful colors that pop and are muted where necessary.
 
 ## Sublime Text
 ![image](toothpaste_Sublime2_screenshot.png)
@@ -154,6 +154,15 @@ If you want to set toothpaste as your default theme, select toothpaste from the 
 4. Click on the Colors Tab and then tap on the color presets label
 5. Select Import
 6. Find 'toothpaste.itermcolors' on your file system and click 'Open'
+
+## Hyper
+
+![image](https://raw.githubusercontent.com/lachlanjc/hyperpaste/master/docs/screenshot.png)
+
+### Installation:
+
+1. Open `~/.hyper.js` and find the `plugins` array near the bottom
+2. Add `'hyperpaste'` and save
 
 ## Contact
 - See something wrong? Have suggestions? Open up an issue or pull request. I'll be tweaking the theme here & there. <3
