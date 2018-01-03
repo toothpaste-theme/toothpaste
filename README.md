@@ -1,8 +1,9 @@
 # Toothpaste
-A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, Visual Studio Code, and Hyper with flavorful colors that pop and are muted where necessary.
+
+A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, TextMate, MacOS Terminal, iTerm Visual Studio Code, and Hyper with flavorful colors that pop and are muted where necessary.
 
 ## Sublime Text
-![image](toothpaste_Sublime2_screenshot.png)
+![image](Screenshots/toothpaste_Sublime2_screenshot.png)
 
 ### Installation:
 #### With Package Control (*Coming Soon*)
@@ -28,7 +29,7 @@ A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, Visual Stud
 4. Go to Preferences > Color Schemes > Toothpaste Color Scheme
 
 ## Atom
-![image](toothpaste_atom_screenshot.png)
+![image](Screenshots/toothpaste_atom_screenshot.png)
 ### Installation:
 #### With [Atom Package Manager](https://atom.io/themes/toothpaste)
 1. Navigate to the install section within Atom's settings
@@ -49,7 +50,7 @@ A custom theme for Sublime Text, Atom, Xcode, WebStorm, Vim, BBEdit, Visual Stud
 *Note*: Toothpaste for atom works best with the One Dark or One Light UI themes. Toothpaste is a syntax theme and is therefore inherited by One Dark/Light UI themes.
 
 ## [BBEdit](http://www.barebones.com/products/bbedit/)
-![image](toothpaste_bbedit_screenshot.png)
+![image](Screenshots/toothpaste_bbedit_screenshot.png)
 ### Installation:
 Toothpaste is included in BBEdit 11.6 and later.
 
@@ -69,7 +70,7 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 7. Go to Preferences > Fonts & Colors > Toothpaste
 
 ## Xcode
-![image](Xcode_screenshot.png)
+![image](Screenshots/toothpaste_Xcode_screenshot.png)
 ### Installation:
 #### With [Alcatraz](http://alcatraz.io)
 1. Install Alcatraz: `curl -fsSL https://raw.githubusercontent.com/supermarin/Alcatraz/deploy/Scripts/install.sh | sh`
@@ -87,20 +88,20 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 4. Go to Preferences > Fonts & Colors > Toothpaste
 
 ## WebStorm
-![image](toothpaste_webstorm_screenshot.png)
+![image](Screenshots/toothpaste_webstorm_screenshot.png)
 ### Installation:
 #### Manually
 1. Download the theme `.jar` file
 2. Navigate to File > Import Settings and select the JAR file you just downloaded
 
 ## Vim
-![image](vim-shot.png)
+![image](Screenshots/toothpaste_vim_screenshot.png)
 ### Installation:
 1. Copy `toothpaste.vim` into your `~/.vim/colors`
 2. In vim, select the color scheme: `:colorscheme toothpaste`
 
 ## Visual Studio Code
-![image](toothpaste-vscode-screenshot.png)
+![image](Screenshots/toothpaste_vscode_screenshot.png)
 
 ### Installation:
 
@@ -118,7 +119,7 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 
 ## TextMate
 
-![image](TextMate-shot.png)
+![image](Screenshots/toothpaste_TextMate2_screenshot.png)
 
 ### Installation:
 
@@ -126,11 +127,11 @@ To customize a copy, click the "Save Scheme" button. This will create a copy in 
 2. Open Preferences
 3. Select Bundles
 4. Click on the Themes tab
-5. Find 'toothpaste.tmTheme' on your file system and click open
+5. Find `toothpaste.tmTheme` on your file system and click open
 
 ## macOS Terminal
 
-![image](toothpaste_terminal_screenshot.png)
+![image](Screenshots/toothpaste_terminal_screenshot.png)
 
 ### Installation:
 
@@ -144,16 +145,16 @@ If you want to set toothpaste as your default theme, select toothpaste from the 
 
 ## iTerm2 Terminal
 
-![image](iTerm2_screenshot.png)
+![image](Screenshots/toothpaste_iTerm2_screenshot.png)
 
 ### Installation:
 
 1. Launch iTerm2..app
 2. Open Preferences
-3. Select 'Profiles'
+3. Select `Profiles`
 4. Click on the Colors Tab and then tap on the color presets label
 5. Select Import
-6. Find 'toothpaste.itermcolors' on your file system and click 'Open'
+6. Find `toothpaste.itermcolors` on your file system and click 'Open'
 
 ## Hyper
 
@@ -177,7 +178,7 @@ Toothpaste definitely could not have grown the way it continues to without the c
 - Benedikt Lehnert ([@blehnert](https://twitter.com/blehnert)) for whipping up the Toothpaste landing page
 - Josh Fontecha ([@jfontecha](https://twitter.com/jfontecha)) for the manual instructions for ST2 on Windows
 - Lachlan Campbell ([@lachlanjc](https://twitter.com/lachlanjc)) for installation instructions with `apm` from Command Line
-- Agisilaos Tsaraboulidis ([@AgisilaosTs](https://twitter.com/AgisilaosTs)) for porting Toothpaste over to iTerm2 & TextMate 2
+- Agisilaos Tsaraboulidis ([@AgisilaosTs](https://twitter.com/AgisilaosTs)) for recreating Toothpaste for iTerm2 & TextMate 2
 - Dotan Nahum ([@jondot](https://twitter.com/jondot)) for recreating Toothpaste for Vim
 - Aalaap Ghag ([@aalaap](http://twitter.com/aalaap)) for porting Toothpaste over to Visual Studio Code
 - Ornithologist Coder  ([@OrnithoCoder](https://twitter.com/OrnithoCoder)) for porting Toothpaste over to macOS Terminal
